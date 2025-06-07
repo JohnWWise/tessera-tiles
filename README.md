@@ -1,5 +1,7 @@
 # Tessera Tiles
-
+<p align="center">
+  <img src="public/tessera-logo.svg" alt="Tessera Tiles Logo" width="200"/>
+</p>
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPLv3-blue.svg)](LICENSE)
 
 > Decentralized, local-first, block-based knowledge management — built on Solid Pods and Linked Data.
