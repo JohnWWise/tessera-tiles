@@ -46,10 +46,3 @@ We believe in a world where your knowledge, memories, and data belong to *you* �
 
 Stay tuned — initial setup instructions ~coming soon~ a long way away!
 
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please open an issue or pull request. Let’s build the future of knowledge management together.
-
----
